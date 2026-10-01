@@ -1,0 +1,11 @@
+{
+  "name": "aie-case-saree-recognition",
+  "version": "1.0.0",
+  "description": "Saree Design Recognition Frontend",
+  "scripts": {
+    "dev": "cd webapp && npm run dev",
+    "build": "cd webapp && npm run build",
+    "preview": "cd webapp && npm run preview",
+    "install-all": "cd webapp && npm install"
+  }
+}

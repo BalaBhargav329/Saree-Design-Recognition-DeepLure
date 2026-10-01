@@ -1,0 +1,8 @@
+venv/
+webapp/node_modules/
+.DS_Store
+__pycache__/
+*.pyc
+*.pth
+dummy_dataset/
+.ipynb_checkpoints/
